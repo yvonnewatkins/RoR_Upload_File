@@ -1,0 +1,7 @@
+PROJECT NAME: RoR_Upload_File
+
+DESCRIPTION: Ruby on Rails project uploads data selected by the user browsing a local csv file and then creating and inserting the data into a mySQL database.
+
+VERSION HISTORY: 0.1 
+VERSION DESCRIPTION: Initial version. Contains only wireframe. 
+
